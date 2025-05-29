@@ -76,13 +76,6 @@ O sistema possui um menu intuitivo com opções para transformação, aplicaçã
 - Todos os efeitos são aplicados diretamente sobre uma cópia da imagem original.
 - A aplicação exibe as imagens redimensionadas para melhor visualização na interface.
 
-## 🚀 Melhorias Futuras
-
-- Implementar as operações de **morfologia matemática**.
-- Desenvolver o módulo de **extração de características**.
-- Adicionar **mais filtros** e transformações.
-- Melhorar a interface com barras de ferramentas e atalhos.
-
 ## 👨‍💻 Autor
 
 Projeto desenvolvido por **Willian dos Santos Ribas**.
